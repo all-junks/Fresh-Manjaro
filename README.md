@@ -12,7 +12,11 @@
 
 <h3 align=center><em>” Roasted from perfect coffee, a theme that's fresh and clean „</em></h3>
 <h3 align=center>
-<img src=https://img.shields.io/badge/Linux_Only-OS?style=for-the-badge&logo=linux&logoColor=1e1e2e&logoSize=auto&label=OS&labelColor=a6e3a1&color=1e1e2e/>
+  <img src="https://img.shields.io/badge/LINUX_ONLY-OS?style=for-the-badge&logo=linux&logoColor=a6e3a1&label=OS&labelColor=1e1e2e&color=a6e3a1"/>
+  <img src="https://img.shields.io/badge/GNOME%2C_XFCE%2C_LXDE%2C_CINNAMON_ONLY-DE?style=for-the-badge&logoColor=89b4fa&label=OS&labelColor=1e1e2e&color=89b4fa"/>
+  <img src="https://img.shields.io/github/stars/all-junks/Fresh-Manjaro?style=for-the-badge&label=Stars&labelColor=1e1e2e&color=%23a6da95"/>
+  <img src="https://img.shields.io/badge/GPL--3.0-LICENSE?style=for-the-badge&logo=GNU&logoColor=89a8fa&label=LICENSE&labelColor=1e1e2e&color=89a8fa"/>
+</h3>
 
 I've just painfully installed Manjaro & tested my other theme, but I got a feeling that the forest green vibe of Matcha was built for the OS' originality, so I decided to remix one of my favourite themes, Frapoppé, & called it Manjaro Fresh! A soothing theme that is actually forked from my Cosmic model of Frapoppé based on Fausto Korpsvart's Catppuccine GTK Theme! It actually consists of not only the theme, but also the icons, font & wallpapers, all in one repo! So if you want to install my new Manjaro Fresh theme, follow these steps:
 
