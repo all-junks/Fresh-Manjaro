@@ -1,11 +1,9 @@
 <h1 align=center>Fresh Manjaro</h1>
 
-<h3 align=center>
-  <img width=550 src=https://github.com/all-junks/Fresh-Manjaro/blob/main/Demos/Form-Demos/img1.png>
-  <em>Form 1, Named, "Rodeo"</em>
-  <img width=550 src=https://github.com/all-junks/Fresh-Manjaro/blob/main/Demos/Form-Demos/img2.png>
-  <em>Form 2, Named, "Pure"</em>
-</h3>
+<h3 align=center><img width=550 src=https://github.com/all-junks/Fresh-Manjaro/blob/main/Demos/Form-Demos/img1.png></h3>
+<h3 align=center><em>Form 1, Named, "Rodeo"</em></h3>
+<h3 align=center><img width=550 src=https://github.com/all-junks/Fresh-Manjaro/blob/main/Demos/Form-Demos/img2.png></h3>
+<h3 align=center><em>Form 2, Named, "Pure"</em></h3>
 
 <h3 align=center><em> Roasted from perfect coffee, a theme that's fresh and clean </em></h3>
 
