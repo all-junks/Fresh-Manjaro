@@ -40,16 +40,16 @@ do
 		"deb")
 			sudo add-apt-repository ppa:teejee2008/foss
 			sudo apt update
-			sudo apt install conky-all conky-manager2 -y
+			sudo apt install conky-all conky-manager2 jq -y
 			break;;
 		"rhel")
 			sudo dnf copr enable geraldosimiao/conky-manager2
 			sudo dnf update
-			sudo dnf install conky conky-all conky-manager2 -y
+			sudo dnf install conky conky-all conky-manager2 jq -y
 			break;;
 		"arch")
 			sudo pacman -Syu
-			sudo pacman -S conky conky-manager
+			sudo pacman -S conky conky-manager jq
 			break;;
 		"suse")
 			sudo zypper addrepo https://download.opensuse.org/repositories/home:marcinbajor/openSUSE_Tumbleweed/home:marcinbajor.repo
@@ -57,6 +57,7 @@ do
 			sudo zypper update
 			sudo zypper install conky
 			sudo zypper install conky-manager
+   			sudo zypper install jq
 			break;;
 		*)
 			echo "Invalid option, retrying...";;
